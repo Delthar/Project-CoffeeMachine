@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET Projects\\Project CoffeeMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|D:\\.NET Projects\\Project CoffeeMachine\\coffeemachineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|solutionrelative:coffeemachineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|D:\\.NET Projects\\Project CoffeeMachine\\coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|solutionrelative:coffeemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|D:\\.NET Projects\\Project CoffeeMachine\\amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|solutionrelative:amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|d:\\.net projects\\project coffeemachine\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|D:\\.NET Projects\\Project CoffeeMachine\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD63B17A-0CC0-4940-891D-D65BB6432268}|Project CoffeeMachine.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Amounts.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\Project CoffeeMachine\\Amounts.cs",
+              "RelativeDocumentMoniker": "Amounts.cs",
+              "ToolTip": "D:\\.NET Projects\\Project CoffeeMachine\\Amounts.cs",
+              "RelativeToolTip": "Amounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:43:23.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoffeeMachine.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\Project CoffeeMachine\\CoffeeMachine.cs",
+              "RelativeDocumentMoniker": "CoffeeMachine.cs",
+              "ToolTip": "D:\\.NET Projects\\Project CoffeeMachine\\CoffeeMachine.cs",
+              "RelativeToolTip": "CoffeeMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:24:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeMachineViewModel.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\Project CoffeeMachine\\CoffeeMachineViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeMachineViewModel.cs",
+              "ToolTip": "D:\\.NET Projects\\Project CoffeeMachine\\CoffeeMachineViewModel.cs",
+              "RelativeToolTip": "CoffeeMachineViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:59:25.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\.NET Projects\\Project CoffeeMachine\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\.NET Projects\\Project CoffeeMachine\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-19T06:26:58.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\.NET Projects\\Project CoffeeMachine\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\.NET Projects\\Project CoffeeMachine\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T06:26:57.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

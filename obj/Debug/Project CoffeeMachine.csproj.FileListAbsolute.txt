@@ -1,0 +1,38 @@
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\App.g.cs
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine_MarkupCompile.cache
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine_MarkupCompile.lref
+C:\Users\user\source\repos\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.exe.config
+C:\Users\user\source\repos\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.exe
+C:\Users\user\source\repos\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.pdb
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.g.resources
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project_CoffeeMachine.Properties.Resources.resources
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.exe
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.pdb
+C:\Users\user\source\repos\Project CoffeeMachine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Project CoffeeMachine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\source\repos\Project CoffeeMachine\obj\Debug\Project .03065BC7.Up2Date
+D:\.NET Projects\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.exe.config
+D:\.NET Projects\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.exe
+D:\.NET Projects\Project CoffeeMachine\bin\Debug\Project CoffeeMachine.pdb
+D:\.NET Projects\Project CoffeeMachine\bin\Debug\Newtonsoft.Json.dll
+D:\.NET Projects\Project CoffeeMachine\bin\Debug\Newtonsoft.Json.xml
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.AssemblyReference.cache
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\MainWindow.g.cs
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\App.g.cs
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine_MarkupCompile.cache
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine_MarkupCompile.lref
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\MainWindow.baml
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.g.resources
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project_CoffeeMachine.Properties.Resources.resources
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.GenerateResource.cache
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project .03065BC7.Up2Date
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.exe
+D:\.NET Projects\Project CoffeeMachine\obj\Debug\Project CoffeeMachine.pdb
